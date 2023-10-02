@@ -44,7 +44,7 @@ Nginx 伪静态配置
 关于作者
 原作者：@快乐是福
 Github:https://github.com/klsf/kldns
-QQ: 815856515
+
 
 美化版作者：@九笔容颜
 邮箱：hao@biun.cn
