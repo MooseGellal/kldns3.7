@@ -43,12 +43,10 @@ Nginx 伪静态配置
   }
 关于作者
 原作者：@快乐是福
-
-QQ: 815856515
-邮箱：815856515@qq.com
 Github:https://github.com/klsf/kldns
-美化版作者：@九笔容颜
+QQ: 815856515
 
+美化版作者：@九笔容颜
 邮箱：hao@biun.cn
 官网：http://www.loxza.com
 博客：https://www.superry.net
